@@ -1,11 +1,3 @@
-dpg-d58nnpm3jp1c73bkmp0g-a
-5432
-curso_nestjs
-curso_nestjs_user
-kuXJLu3a2IFevAfuqHeviIwR91WYSGjk
-postgresql://curso_nestjs_user:kuXJLu3a2IFevAfuqHeviIwR91WYSGjk@dpg-d58nnpm3jp1c73bkmp0g-a.virginia-postgres.render.com/curso_nestjs
-
-
 Objetivo: Desarrollar y desplegar una API RESTful escalable utilizando NestJS,
 PostgreSQL y TypeORM.
 

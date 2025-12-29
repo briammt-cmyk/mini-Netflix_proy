@@ -36,6 +36,6 @@ export class Episodio {
   })
   @JoinColumn({ name: 'serie_Id' })
   serie: Serie;
-  @Column({ nullable: false })
+  @Column({ nullable: true })
   serieId: number;
 }
